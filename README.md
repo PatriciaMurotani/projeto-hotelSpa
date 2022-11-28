@@ -1,14 +1,15 @@
 # Projeto Hotel SPA
 
-Elaborado por :	                 RGM:
-     Patrícia Murotani 	         11221402627
- 		 Vanessa F. M. Randis	       11212100351
+Elaborado por :	                  
+     
+     Patrícia Murotani      RGM: 11221402627
+     Vanessa F. M. Randis     RGM:11212100351
 
 Padrões extraídos de sites e vídeos explicando como elaborar um projeto.
 
 Segue explicações de como foi desenvolvido:
 
-IDE utilizada:Eclipse
+IDE utilizada: Eclipse
 * JAVA 8
 * Maven
 * Framework lombok
